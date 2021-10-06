@@ -1,0 +1,763 @@
+{
+	"BUILD_DIR" : "/root/mumble/build/src/mumble/mumble_autogen",
+	"CMAKE_BINARY_DIR" : "/root/mumble/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/root/mumble/build/src/mumble",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/root/mumble/src/mumble",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/root/mumble",
+	"HEADERS" : 
+	[
+		[
+			"/root/mumble/3rdparty/qqbonjour/BonjourRecord.h",
+			"MU",
+			"KXIUKS7IEJ/moc_BonjourRecord.cpp"
+		],
+		[
+			"/root/mumble/3rdparty/qqbonjour/BonjourServiceBrowser.h",
+			"MU",
+			"KXIUKS7IEJ/moc_BonjourServiceBrowser.cpp"
+		],
+		[
+			"/root/mumble/3rdparty/qqbonjour/BonjourServiceResolver.h",
+			"MU",
+			"KXIUKS7IEJ/moc_BonjourServiceResolver.cpp"
+		],
+		[
+			"/root/mumble/3rdparty/smallft/smallft.h",
+			"MU",
+			"U5RSZUUPGH/moc_smallft.cpp"
+		],
+		[ "/root/mumble/src/ACL.h", "MU", "VNU7RW3YIC/moc_ACL.cpp" ],
+		[ "/root/mumble/src/Channel.h", "MU", "VNU7RW3YIC/moc_Channel.cpp" ],
+		[
+			"/root/mumble/src/ChannelListenerManager.h",
+			"MU",
+			"VNU7RW3YIC/moc_ChannelListenerManager.cpp"
+		],
+		[
+			"/root/mumble/src/Connection.h",
+			"MU",
+			"VNU7RW3YIC/moc_Connection.cpp"
+		],
+		[ "/root/mumble/src/Group.h", "MU", "VNU7RW3YIC/moc_Group.cpp" ],
+		[
+			"/root/mumble/src/SignalCurry.h",
+			"MU",
+			"VNU7RW3YIC/moc_SignalCurry.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/ACLEditor.h",
+			"MU",
+			"EWIEGA46WW/moc_ACLEditor.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/ALSAAudio.h",
+			"MU",
+			"EWIEGA46WW/moc_ALSAAudio.cpp"
+		],
+		[ "/root/mumble/src/mumble/API.h", "MU", "EWIEGA46WW/moc_API.cpp" ],
+		[ "/root/mumble/src/mumble/About.h", "MU", "EWIEGA46WW/moc_About.cpp" ],
+		[
+			"/root/mumble/src/mumble/ApplicationPalette.h",
+			"MU",
+			"EWIEGA46WW/moc_ApplicationPalette.cpp"
+		],
+		[ "/root/mumble/src/mumble/Audio.h", "MU", "EWIEGA46WW/moc_Audio.cpp" ],
+		[
+			"/root/mumble/src/mumble/AudioConfigDialog.h",
+			"MU",
+			"EWIEGA46WW/moc_AudioConfigDialog.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/AudioInput.h",
+			"MU",
+			"EWIEGA46WW/moc_AudioInput.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/AudioOutput.h",
+			"MU",
+			"EWIEGA46WW/moc_AudioOutput.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/AudioOutputSample.h",
+			"MU",
+			"EWIEGA46WW/moc_AudioOutputSample.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/AudioOutputSpeech.h",
+			"MU",
+			"EWIEGA46WW/moc_AudioOutputSpeech.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/AudioOutputUser.h",
+			"MU",
+			"EWIEGA46WW/moc_AudioOutputUser.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/AudioStats.h",
+			"MU",
+			"EWIEGA46WW/moc_AudioStats.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/AudioWizard.h",
+			"MU",
+			"EWIEGA46WW/moc_AudioWizard.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/BanEditor.h",
+			"MU",
+			"EWIEGA46WW/moc_BanEditor.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/CELTCodec.h",
+			"MU",
+			"EWIEGA46WW/moc_CELTCodec.cpp"
+		],
+		[ "/root/mumble/src/mumble/Cert.h", "MU", "EWIEGA46WW/moc_Cert.cpp" ],
+		[
+			"/root/mumble/src/mumble/ClientUser.h",
+			"MU",
+			"EWIEGA46WW/moc_ClientUser.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/ConfigDialog.h",
+			"MU",
+			"EWIEGA46WW/moc_ConfigDialog.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/ConfigWidget.h",
+			"MU",
+			"EWIEGA46WW/moc_ConfigWidget.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/ConnectDialog.h",
+			"MU",
+			"EWIEGA46WW/moc_ConnectDialog.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/CustomElements.h",
+			"MU",
+			"EWIEGA46WW/moc_CustomElements.cpp"
+		],
+		[ "/root/mumble/src/mumble/DBus.h", "MU", "EWIEGA46WW/moc_DBus.cpp" ],
+		[
+			"/root/mumble/src/mumble/Database.h",
+			"MU",
+			"EWIEGA46WW/moc_Database.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/DeveloperConsole.h",
+			"MU",
+			"EWIEGA46WW/moc_DeveloperConsole.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/EchoCancelOption.h",
+			"MU",
+			"EWIEGA46WW/moc_EchoCancelOption.cpp"
+		],
+		[ "/root/mumble/src/mumble/Global.h", "MU", "EWIEGA46WW/moc_Global.cpp" ],
+		[
+			"/root/mumble/src/mumble/GlobalShortcut.h",
+			"MU",
+			"EWIEGA46WW/moc_GlobalShortcut.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/GlobalShortcutButtons.h",
+			"MU",
+			"EWIEGA46WW/moc_GlobalShortcutButtons.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/GlobalShortcut_unix.h",
+			"MU",
+			"EWIEGA46WW/moc_GlobalShortcut_unix.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/JackAudio.h",
+			"MU",
+			"EWIEGA46WW/moc_JackAudio.cpp"
+		],
+		[ "/root/mumble/src/mumble/LCD.h", "MU", "EWIEGA46WW/moc_LCD.cpp" ],
+		[
+			"/root/mumble/src/mumble/LegacyPlugin.h",
+			"MU",
+			"EWIEGA46WW/moc_LegacyPlugin.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/ListenerLocalVolumeDialog.h",
+			"MU",
+			"EWIEGA46WW/moc_ListenerLocalVolumeDialog.cpp"
+		],
+		[ "/root/mumble/src/mumble/Log.h", "MU", "EWIEGA46WW/moc_Log.cpp" ],
+		[
+			"/root/mumble/src/mumble/LookConfig.h",
+			"MU",
+			"EWIEGA46WW/moc_LookConfig.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/MainWindow.h",
+			"MU",
+			"EWIEGA46WW/moc_MainWindow.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/ManualPlugin.h",
+			"MU",
+			"EWIEGA46WW/moc_ManualPlugin.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/Markdown.h",
+			"MU",
+			"EWIEGA46WW/moc_Markdown.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/MumbleApplication.h",
+			"MU",
+			"EWIEGA46WW/moc_MumbleApplication.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/NetworkConfig.h",
+			"MU",
+			"EWIEGA46WW/moc_NetworkConfig.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/OpusCodec.h",
+			"MU",
+			"EWIEGA46WW/moc_OpusCodec.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/Overlay.h",
+			"MU",
+			"EWIEGA46WW/moc_Overlay.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/OverlayClient.h",
+			"MU",
+			"EWIEGA46WW/moc_OverlayClient.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/OverlayConfig.h",
+			"MU",
+			"EWIEGA46WW/moc_OverlayConfig.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/OverlayEditor.h",
+			"MU",
+			"EWIEGA46WW/moc_OverlayEditor.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/OverlayEditorScene.h",
+			"MU",
+			"EWIEGA46WW/moc_OverlayEditorScene.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/OverlayPositionableItem.h",
+			"MU",
+			"EWIEGA46WW/moc_OverlayPositionableItem.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/OverlayText.h",
+			"MU",
+			"EWIEGA46WW/moc_OverlayText.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/OverlayUser.h",
+			"MU",
+			"EWIEGA46WW/moc_OverlayUser.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/OverlayUserGroup.h",
+			"MU",
+			"EWIEGA46WW/moc_OverlayUserGroup.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/PAAudio.h",
+			"MU",
+			"EWIEGA46WW/moc_PAAudio.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/PTTButtonWidget.h",
+			"MU",
+			"EWIEGA46WW/moc_PTTButtonWidget.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/PathListWidget.h",
+			"MU",
+			"EWIEGA46WW/moc_PathListWidget.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/PipeWire.h",
+			"MU",
+			"EWIEGA46WW/moc_PipeWire.cpp"
+		],
+		[ "/root/mumble/src/mumble/Plugin.h", "MU", "EWIEGA46WW/moc_Plugin.cpp" ],
+		[
+			"/root/mumble/src/mumble/PluginConfig.h",
+			"MU",
+			"EWIEGA46WW/moc_PluginConfig.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/PluginInstaller.h",
+			"MU",
+			"EWIEGA46WW/moc_PluginInstaller.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/PluginManager.h",
+			"MU",
+			"EWIEGA46WW/moc_PluginManager.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/PluginManifest.h",
+			"MU",
+			"EWIEGA46WW/moc_PluginManifest.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/PluginUpdater.h",
+			"MU",
+			"EWIEGA46WW/moc_PluginUpdater.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/PositionalAudioViewer.h",
+			"MU",
+			"EWIEGA46WW/moc_PositionalAudioViewer.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/PositionalData.h",
+			"MU",
+			"EWIEGA46WW/moc_PositionalData.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/PulseAudio.h",
+			"MU",
+			"EWIEGA46WW/moc_PulseAudio.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/QtWidgetUtils.h",
+			"MU",
+			"EWIEGA46WW/moc_QtWidgetUtils.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/RichTextEditor.h",
+			"MU",
+			"EWIEGA46WW/moc_RichTextEditor.cpp"
+		],
+		[ "/root/mumble/src/mumble/Screen.h", "MU", "EWIEGA46WW/moc_Screen.cpp" ],
+		[
+			"/root/mumble/src/mumble/SearchDialog.h",
+			"MU",
+			"EWIEGA46WW/moc_SearchDialog.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/ServerHandler.h",
+			"MU",
+			"EWIEGA46WW/moc_ServerHandler.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/ServerInformation.h",
+			"MU",
+			"EWIEGA46WW/moc_ServerInformation.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/Settings.h",
+			"MU",
+			"EWIEGA46WW/moc_Settings.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/SharedMemory.h",
+			"MU",
+			"EWIEGA46WW/moc_SharedMemory.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/SocketRPC.h",
+			"MU",
+			"EWIEGA46WW/moc_SocketRPC.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/SvgIcon.h",
+			"MU",
+			"EWIEGA46WW/moc_SvgIcon.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/TalkingUI.h",
+			"MU",
+			"EWIEGA46WW/moc_TalkingUI.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/TalkingUIContainer.h",
+			"MU",
+			"EWIEGA46WW/moc_TalkingUIContainer.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/TalkingUIEntry.h",
+			"MU",
+			"EWIEGA46WW/moc_TalkingUIEntry.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/TalkingUISelection.h",
+			"MU",
+			"EWIEGA46WW/moc_TalkingUISelection.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/TextMessage.h",
+			"MU",
+			"EWIEGA46WW/moc_TextMessage.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/TextToSpeech.h",
+			"MU",
+			"EWIEGA46WW/moc_TextToSpeech.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/ThemeInfo.h",
+			"MU",
+			"EWIEGA46WW/moc_ThemeInfo.cpp"
+		],
+		[ "/root/mumble/src/mumble/Themes.h", "MU", "EWIEGA46WW/moc_Themes.cpp" ],
+		[ "/root/mumble/src/mumble/Tokens.h", "MU", "EWIEGA46WW/moc_Tokens.cpp" ],
+		[
+			"/root/mumble/src/mumble/Translations.h",
+			"MU",
+			"EWIEGA46WW/moc_Translations.cpp"
+		],
+		[ "/root/mumble/src/mumble/Usage.h", "MU", "EWIEGA46WW/moc_Usage.cpp" ],
+		[
+			"/root/mumble/src/mumble/UserEdit.h",
+			"MU",
+			"EWIEGA46WW/moc_UserEdit.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/UserInformation.h",
+			"MU",
+			"EWIEGA46WW/moc_UserInformation.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/UserListModel.h",
+			"MU",
+			"EWIEGA46WW/moc_UserListModel.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/UserLocalNicknameDialog.h",
+			"MU",
+			"EWIEGA46WW/moc_UserLocalNicknameDialog.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/UserLocalVolumeDialog.h",
+			"MU",
+			"EWIEGA46WW/moc_UserLocalVolumeDialog.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/UserModel.h",
+			"MU",
+			"EWIEGA46WW/moc_UserModel.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/UserView.h",
+			"MU",
+			"EWIEGA46WW/moc_UserView.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/VersionCheck.h",
+			"MU",
+			"EWIEGA46WW/moc_VersionCheck.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/ViewCert.h",
+			"MU",
+			"EWIEGA46WW/moc_ViewCert.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/VoiceRecorder.h",
+			"MU",
+			"EWIEGA46WW/moc_VoiceRecorder.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/VoiceRecorderDialog.h",
+			"MU",
+			"EWIEGA46WW/moc_VoiceRecorderDialog.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/WebFetch.h",
+			"MU",
+			"EWIEGA46WW/moc_WebFetch.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/XMLTools.h",
+			"MU",
+			"EWIEGA46WW/moc_XMLTools.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/Zeroconf.h",
+			"MU",
+			"EWIEGA46WW/moc_Zeroconf.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/widgets/CompletablePage.h",
+			"MU",
+			"IMAN36LHMA/moc_CompletablePage.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/widgets/MUComboBox.h",
+			"MU",
+			"IMAN36LHMA/moc_MUComboBox.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/widgets/MultiStyleWidgetWrapper.h",
+			"MU",
+			"IMAN36LHMA/moc_MultiStyleWidgetWrapper.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/widgets/RichTextItemDelegate.h",
+			"MU",
+			"IMAN36LHMA/moc_RichTextItemDelegate.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/widgets/SearchDialogItemDelegate.h",
+			"MU",
+			"IMAN36LHMA/moc_SearchDialogItemDelegate.cpp"
+		],
+		[
+			"/root/mumble/src/mumble/widgets/SearchDialogTree.h",
+			"MU",
+			"IMAN36LHMA/moc_SearchDialogTree.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/root/mumble/build/src/mumble/mumble_autogen/include",
+	"MOC_COMPILATION_FILE" : "/root/mumble/build/src/mumble/mumble_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"HAVE_STDINT_H",
+		"MUMBLE",
+		"MUMBLE_BUILD_YEAR=2021",
+		"MUMBLE_LIBRARY_PATH=/usr/local/lib/mumble",
+		"MUMBLE_PLUGIN_PATH=/usr/local/lib/mumble/plugins",
+		"MUMBLE_TARGET_ARCH=\"x64\"",
+		"MUMBLE_TARGET_OS=\"linux\"",
+		"MUMBLE_VERSION=1.5.0.0",
+		"NO_CRASH_REPORT",
+		"POCO_NO_AUTOMATIC_LIBS",
+		"QT_CONCURRENT_LIB",
+		"QT_CORE_LIB",
+		"QT_DBUS_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_RESTRICTED_CAST_FROM_ASCII",
+		"QT_SQL_LIB",
+		"QT_SVG_LIB",
+		"QT_USE_FAST_CONCATENATION",
+		"QT_USE_FAST_OPERATOR_PLUS",
+		"QT_WIDGETS_LIB",
+		"QT_XML_LIB",
+		"RESTRICT=__restrict__",
+		"USE_ALSA",
+		"USE_DBUS",
+		"USE_JACKAUDIO",
+		"USE_MANUAL_PLUGIN",
+		"USE_OPUS",
+		"USE_OVERLAY",
+		"USE_PIPEWIRE",
+		"USE_PORTAUDIO",
+		"USE_PULSEAUDIO",
+		"USE_QSSLDIFFIEHELLMANPARAMETERS",
+		"USE_RNNOISE",
+		"USE_SPEECHD",
+		"USE_SPEECHD_PKGCONFIG",
+		"USE_ZEROCONF",
+		"_USE_MATH_DEFINES"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/root/mumble/src/mumble",
+		"/root/mumble/src/mumble/widgets",
+		"/root/mumble/src",
+		"/root/mumble/3rdparty/smallft",
+		"/root/mumble/plugins",
+		"/root/mumble/3rdparty/opus/include",
+		"/root/mumble/3rdparty/celt-0.7.0-src/libcelt",
+		"/usr/include/avahi-compat-libdns_sd",
+		"/root/mumble/3rdparty/qqbonjour",
+		"/root/mumble/src/mumble/SYSTEM",
+		"/root/mumble/3rdparty/jack",
+		"/root/mumble/3rdparty/pipewire",
+		"/root/mumble/3rdparty/portaudio",
+		"/root/mumble/3rdparty/pulseaudio",
+		"/root/mumble/build/src",
+		"/root/mumble/3rdparty/speex-build/SYSTEM",
+		"/root/mumble/3rdparty/speex-src/include",
+		"/root/mumble/3rdparty/speexdsp/include",
+		"/root/mumble/3rdparty/speex-build",
+		"/root/mumble/3rdparty/rnnoise-build/SYSTEM",
+		"/root/mumble/3rdparty/rnnoise-src/include",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtNetwork",
+		"/usr/include/x86_64-linux-gnu/qt5/QtXml",
+		"/usr/include/x86_64-linux-gnu/qt5/QtConcurrent",
+		"/usr/include/x86_64-linux-gnu/qt5/QtSql",
+		"/usr/include/x86_64-linux-gnu/qt5/QtSvg",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtDBus",
+		"/usr/include",
+		"/usr/include/c++/9",
+		"/usr/include/x86_64-linux-gnu/c++/9",
+		"/usr/include/c++/9/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/9/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/root/mumble/build/src/mumble/mumble_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/root/mumble/build/src/mumble/CMakeFiles/mumble_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/qt5/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "/root/mumble/build/src/mumble/CMakeFiles/mumble_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/root/mumble/3rdparty/qqbonjour/BonjourServiceBrowser.cpp", "MU" ],
+		[ "/root/mumble/3rdparty/qqbonjour/BonjourServiceResolver.cpp", "MU" ],
+		[ "/root/mumble/3rdparty/smallft/smallft.cpp", "MU" ],
+		[ "/root/mumble/src/ACL.cpp", "MU" ],
+		[ "/root/mumble/src/Channel.cpp", "MU" ],
+		[ "/root/mumble/src/ChannelListenerManager.cpp", "MU" ],
+		[ "/root/mumble/src/Connection.cpp", "MU" ],
+		[ "/root/mumble/src/Group.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/ACLEditor.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/ALSAAudio.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/API_v_1_0_x.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/About.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/Audio.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/AudioConfigDialog.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/AudioInput.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/AudioOutput.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/AudioOutputSample.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/AudioOutputSpeech.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/AudioOutputUser.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/AudioStats.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/AudioWizard.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/BanEditor.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/CELTCodec.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/Cert.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/ClientUser.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/ConfigDialog.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/ConfigWidget.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/ConnectDialog.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/CustomElements.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/DBus.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/Database.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/DeveloperConsole.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/EchoCancelOption.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/Global.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/GlobalShortcut.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/GlobalShortcutButtons.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/GlobalShortcut_unix.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/JackAudio.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/LCD.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/LegacyPlugin.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/ListenerLocalVolumeDialog.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/Log.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/Log_unix.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/LookConfig.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/MainWindow.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/ManualPlugin.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/Markdown.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/Messages.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/MumbleApplication.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/NetworkConfig.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/OpusCodec.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/Overlay.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/OverlayClient.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/OverlayConfig.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/OverlayEditor.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/OverlayEditorScene.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/OverlayPositionableItem.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/OverlayText.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/OverlayUser.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/OverlayUserGroup.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/Overlay_unix.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/PAAudio.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/PTTButtonWidget.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/PathListWidget.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/PipeWire.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/Plugin.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/PluginConfig.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/PluginInstaller.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/PluginManager.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/PluginManifest.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/PluginUpdater.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/PositionalAudioViewer.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/PositionalData.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/PulseAudio.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/QtWidgetUtils.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/RichTextEditor.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/Screen.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/SearchDialog.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/ServerHandler.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/ServerInformation.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/Settings.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/SharedMemory.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/SharedMemory_unix.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/SocketRPC.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/SvgIcon.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/TalkingUI.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/TalkingUIContainer.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/TalkingUIEntry.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/TalkingUISelection.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/TextMessage.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/TextToSpeech_unix.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/ThemeInfo.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/Themes.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/Tokens.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/Translations.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/Usage.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/UserEdit.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/UserInformation.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/UserListModel.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/UserLocalNicknameDialog.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/UserLocalVolumeDialog.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/UserModel.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/UserView.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/VersionCheck.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/ViewCert.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/VoiceRecorder.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/VoiceRecorderDialog.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/WebFetch.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/XMLTools.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/Zeroconf.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/main.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/os_unix.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/widgets/CompletablePage.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/widgets/MUComboBox.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/widgets/MultiStyleWidgetWrapper.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/widgets/RichTextItemDelegate.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/widgets/SearchDialogItemDelegate.cpp", "MU" ],
+		[ "/root/mumble/src/mumble/widgets/SearchDialogTree.cpp", "MU" ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

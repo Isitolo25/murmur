@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -Wl,-z,relro -Wl,-z,now CMakeFiles/protoc-gen-murmur-grpcwrapper.dir/main.cpp.o  -o protoc-gen-murmur-grpcwrapper  /usr/lib/x86_64-linux-gnu/libprotobuf.so /usr/lib/x86_64-linux-gnu/libprotoc.so -lpthread 

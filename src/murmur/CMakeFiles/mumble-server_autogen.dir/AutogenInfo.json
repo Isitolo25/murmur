@@ -1,0 +1,187 @@
+{
+	"BUILD_DIR" : "/root/mumble/build/src/murmur/mumble-server_autogen",
+	"CMAKE_BINARY_DIR" : "/root/mumble/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/root/mumble/build/src/murmur",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/root/mumble/src/murmur",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/root/mumble",
+	"HEADERS" : 
+	[
+		[
+			"/root/mumble/3rdparty/qqbonjour/BonjourRecord.h",
+			"Mu",
+			"KXIUKS7IEJ/moc_BonjourRecord.cpp"
+		],
+		[
+			"/root/mumble/3rdparty/qqbonjour/BonjourServiceRegister.h",
+			"Mu",
+			"KXIUKS7IEJ/moc_BonjourServiceRegister.cpp"
+		],
+		[
+			"/root/mumble/build/src/murmur/MurmurRPC.grpc.pb.h",
+			"Mu",
+			"EJRQKI7XPS/moc_MurmurRPC.grpc.pb.cpp"
+		],
+		[
+			"/root/mumble/build/src/murmur/MurmurRPC.pb.h",
+			"Mu",
+			"EJRQKI7XPS/moc_MurmurRPC.pb.cpp"
+		],
+		[ "/root/mumble/src/ACL.h", "Mu", "VNU7RW3YIC/moc_ACL.cpp" ],
+		[ "/root/mumble/src/Channel.h", "Mu", "VNU7RW3YIC/moc_Channel.cpp" ],
+		[
+			"/root/mumble/src/ChannelListenerManager.h",
+			"Mu",
+			"VNU7RW3YIC/moc_ChannelListenerManager.cpp"
+		],
+		[
+			"/root/mumble/src/Connection.h",
+			"Mu",
+			"VNU7RW3YIC/moc_Connection.cpp"
+		],
+		[ "/root/mumble/src/Group.h", "Mu", "VNU7RW3YIC/moc_Group.cpp" ],
+		[ "/root/mumble/src/murmur/DBus.h", "Mu", "EWIEGA46WW/moc_DBus.cpp" ],
+		[ "/root/mumble/src/murmur/Meta.h", "Mu", "EWIEGA46WW/moc_Meta.cpp" ],
+		[
+			"/root/mumble/src/murmur/MurmurGRPCImpl.h",
+			"Mu",
+			"EWIEGA46WW/moc_MurmurGRPCImpl.cpp"
+		],
+		[
+			"/root/mumble/src/murmur/MurmurIce.h",
+			"Mu",
+			"EWIEGA46WW/moc_MurmurIce.cpp"
+		],
+		[ "/root/mumble/src/murmur/PBKDF2.h", "Mu", "EWIEGA46WW/moc_PBKDF2.cpp" ],
+		[ "/root/mumble/src/murmur/Server.h", "Mu", "EWIEGA46WW/moc_Server.cpp" ],
+		[
+			"/root/mumble/src/murmur/ServerDB.h",
+			"Mu",
+			"EWIEGA46WW/moc_ServerDB.cpp"
+		],
+		[
+			"/root/mumble/src/murmur/ServerUser.h",
+			"Mu",
+			"EWIEGA46WW/moc_ServerUser.cpp"
+		],
+		[
+			"/root/mumble/src/murmur/UnixMurmur.h",
+			"Mu",
+			"EWIEGA46WW/moc_UnixMurmur.cpp"
+		],
+		[
+			"/root/mumble/src/murmur/Zeroconf.h",
+			"Mu",
+			"EWIEGA46WW/moc_Zeroconf.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/root/mumble/build/src/murmur/mumble-server_autogen/include",
+	"MOC_COMPILATION_FILE" : "/root/mumble/build/src/murmur/mumble-server_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"ICE_STATIC_LIBS",
+		"MUMBLE_BUILD_YEAR=2021",
+		"MUMBLE_TARGET_ARCH=\"x64\"",
+		"MUMBLE_TARGET_OS=\"linux\"",
+		"MUMBLE_VERSION=1.5.0.0",
+		"MURMUR",
+		"QT_CORE_LIB",
+		"QT_DBUS_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_RESTRICTED_CAST_FROM_ASCII",
+		"QT_SQL_LIB",
+		"QT_USE_FAST_CONCATENATION",
+		"QT_USE_FAST_OPERATOR_PLUS",
+		"QT_XML_LIB",
+		"USE_DBUS",
+		"USE_GRPC",
+		"USE_ICE",
+		"USE_QSSLDIFFIEHELLMANPARAMETERS",
+		"USE_ZEROCONF",
+		"_USE_MATH_DEFINES"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/root/mumble/src/murmur",
+		"/root/mumble/src",
+		"/usr/include/avahi-compat-libdns_sd",
+		"/root/mumble/3rdparty/qqbonjour",
+		"/root/mumble/build/src/murmur",
+		"/root/mumble/build/src",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtNetwork",
+		"/usr/include/x86_64-linux-gnu/qt5/QtXml",
+		"/usr/include/x86_64-linux-gnu/qt5/QtSql",
+		"/usr/include/x86_64-linux-gnu/qt5/QtDBus",
+		"/usr/include",
+		"/usr/include/c++/9",
+		"/usr/include/x86_64-linux-gnu/c++/9",
+		"/usr/include/c++/9/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/9/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/root/mumble/build/src/murmur/mumble-server_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"/root/mumble/build/src/murmur/Murmur.cpp",
+		"/root/mumble/build/src/murmur/Murmur.h"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/root/mumble/build/src/murmur/CMakeFiles/mumble-server_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "/root/mumble/build/src/murmur/CMakeFiles/mumble-server_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/root/mumble/3rdparty/qqbonjour/BonjourServiceRegister.cpp", "Mu" ],
+		[ "/root/mumble/build/src/murmur/MurmurRPC.grpc.pb.cc", "Mu" ],
+		[ "/root/mumble/build/src/murmur/MurmurRPC.pb.cc", "Mu" ],
+		[ "/root/mumble/src/ACL.cpp", "Mu" ],
+		[ "/root/mumble/src/Channel.cpp", "Mu" ],
+		[ "/root/mumble/src/ChannelListenerManager.cpp", "Mu" ],
+		[ "/root/mumble/src/Connection.cpp", "Mu" ],
+		[ "/root/mumble/src/Group.cpp", "Mu" ],
+		[ "/root/mumble/src/murmur/Cert.cpp", "Mu" ],
+		[ "/root/mumble/src/murmur/DBus.cpp", "Mu" ],
+		[ "/root/mumble/src/murmur/Messages.cpp", "Mu" ],
+		[ "/root/mumble/src/murmur/Meta.cpp", "Mu" ],
+		[ "/root/mumble/src/murmur/MurmurGRPCImpl.cpp", "Mu" ],
+		[ "/root/mumble/src/murmur/MurmurIce.cpp", "Mu" ],
+		[ "/root/mumble/src/murmur/PBKDF2.cpp", "Mu" ],
+		[ "/root/mumble/src/murmur/RPC.cpp", "Mu" ],
+		[ "/root/mumble/src/murmur/Register.cpp", "Mu" ],
+		[ "/root/mumble/src/murmur/Server.cpp", "Mu" ],
+		[ "/root/mumble/src/murmur/ServerDB.cpp", "Mu" ],
+		[ "/root/mumble/src/murmur/ServerUser.cpp", "Mu" ],
+		[ "/root/mumble/src/murmur/UnixMurmur.cpp", "Mu" ],
+		[ "/root/mumble/src/murmur/Zeroconf.cpp", "Mu" ],
+		[ "/root/mumble/src/murmur/main.cpp", "Mu" ]
+	],
+	"VERBOSITY" : 0
+}

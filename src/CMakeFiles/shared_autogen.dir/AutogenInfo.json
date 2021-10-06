@@ -1,0 +1,222 @@
+{
+	"BUILD_DIR" : "/root/mumble/build/src/shared_autogen",
+	"CMAKE_BINARY_DIR" : "/root/mumble/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/root/mumble/build/src",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/root/mumble/src",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/root/mumble",
+	"HEADERS" : 
+	[
+		[
+			"/root/mumble/3rdparty/arc4random/arc4random_uniform.h",
+			"Mu",
+			"DIHUR762KS/moc_arc4random_uniform.cpp"
+		],
+		[
+			"/root/mumble/build/src/Mumble.pb.h",
+			"Mu",
+			"EJRQKI7XPS/moc_Mumble.pb.cpp"
+		],
+		[ "/root/mumble/src/Ban.h", "Mu", "EWIEGA46WW/moc_Ban.cpp" ],
+		[ "/root/mumble/src/ByteSwap.h", "Mu", "EWIEGA46WW/moc_ByteSwap.cpp" ],
+		[ "/root/mumble/src/EnvUtils.h", "Mu", "EWIEGA46WW/moc_EnvUtils.cpp" ],
+		[ "/root/mumble/src/FFDHE.h", "Mu", "EWIEGA46WW/moc_FFDHE.cpp" ],
+		[
+			"/root/mumble/src/FFDHETable.h",
+			"Mu",
+			"EWIEGA46WW/moc_FFDHETable.cpp"
+		],
+		[
+			"/root/mumble/src/HTMLFilter.h",
+			"Mu",
+			"EWIEGA46WW/moc_HTMLFilter.cpp"
+		],
+		[
+			"/root/mumble/src/HostAddress.h",
+			"Mu",
+			"EWIEGA46WW/moc_HostAddress.cpp"
+		],
+		[ "/root/mumble/src/License.h", "Mu", "EWIEGA46WW/moc_License.cpp" ],
+		[
+			"/root/mumble/src/LogEmitter.h",
+			"Mu",
+			"EWIEGA46WW/moc_LogEmitter.cpp"
+		],
+		[ "/root/mumble/src/Net.h", "Mu", "EWIEGA46WW/moc_Net.cpp" ],
+		[ "/root/mumble/src/OSInfo.h", "Mu", "EWIEGA46WW/moc_OSInfo.cpp" ],
+		[
+			"/root/mumble/src/PasswordGenerator.h",
+			"Mu",
+			"EWIEGA46WW/moc_PasswordGenerator.cpp"
+		],
+		[
+			"/root/mumble/src/PlatformCheck.h",
+			"Mu",
+			"EWIEGA46WW/moc_PlatformCheck.cpp"
+		],
+		[
+			"/root/mumble/src/ProcessResolver.h",
+			"Mu",
+			"EWIEGA46WW/moc_ProcessResolver.cpp"
+		],
+		[ "/root/mumble/src/QtUtils.h", "Mu", "EWIEGA46WW/moc_QtUtils.cpp" ],
+		[ "/root/mumble/src/SSL.h", "Mu", "EWIEGA46WW/moc_SSL.cpp" ],
+		[
+			"/root/mumble/src/SSLCipherInfo.h",
+			"Mu",
+			"EWIEGA46WW/moc_SSLCipherInfo.cpp"
+		],
+		[
+			"/root/mumble/src/SSLCipherInfoTable.h",
+			"Mu",
+			"EWIEGA46WW/moc_SSLCipherInfoTable.cpp"
+		],
+		[ "/root/mumble/src/SSLLocks.h", "Mu", "EWIEGA46WW/moc_SSLLocks.cpp" ],
+		[
+			"/root/mumble/src/SelfSignedCertificate.h",
+			"Mu",
+			"EWIEGA46WW/moc_SelfSignedCertificate.cpp"
+		],
+		[
+			"/root/mumble/src/ServerAddress.h",
+			"Mu",
+			"EWIEGA46WW/moc_ServerAddress.cpp"
+		],
+		[
+			"/root/mumble/src/ServerResolver.h",
+			"Mu",
+			"EWIEGA46WW/moc_ServerResolver.cpp"
+		],
+		[
+			"/root/mumble/src/ServerResolverRecord.h",
+			"Mu",
+			"EWIEGA46WW/moc_ServerResolverRecord.cpp"
+		],
+		[ "/root/mumble/src/Timer.h", "Mu", "EWIEGA46WW/moc_Timer.cpp" ],
+		[
+			"/root/mumble/src/UnresolvedServerAddress.h",
+			"Mu",
+			"EWIEGA46WW/moc_UnresolvedServerAddress.cpp"
+		],
+		[ "/root/mumble/src/User.h", "Mu", "EWIEGA46WW/moc_User.cpp" ],
+		[ "/root/mumble/src/Version.h", "Mu", "EWIEGA46WW/moc_Version.cpp" ],
+		[
+			"/root/mumble/src/crypto/CryptState.h",
+			"Mu",
+			"ZMIDQXK3U3/moc_CryptState.cpp"
+		],
+		[
+			"/root/mumble/src/crypto/CryptStateOCB2.h",
+			"Mu",
+			"ZMIDQXK3U3/moc_CryptStateOCB2.cpp"
+		],
+		[
+			"/root/mumble/src/crypto/CryptographicHash.h",
+			"Mu",
+			"ZMIDQXK3U3/moc_CryptographicHash.cpp"
+		],
+		[
+			"/root/mumble/src/crypto/CryptographicRandom.h",
+			"Mu",
+			"ZMIDQXK3U3/moc_CryptographicRandom.cpp"
+		],
+		[ "/root/mumble/src/licenses.h", "Mu", "EWIEGA46WW/moc_licenses.cpp" ]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/root/mumble/build/src/shared_autogen/include",
+	"MOC_COMPILATION_FILE" : "/root/mumble/build/src/shared_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"MUMBLE_BUILD_YEAR=2021",
+		"MUMBLE_TARGET_ARCH=\"x64\"",
+		"MUMBLE_TARGET_OS=\"linux\"",
+		"MUMBLE_VERSION=1.5.0.0",
+		"QT_CORE_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_RESTRICTED_CAST_FROM_ASCII",
+		"QT_USE_FAST_CONCATENATION",
+		"QT_USE_FAST_OPERATOR_PLUS",
+		"QT_XML_LIB",
+		"USE_QSSLDIFFIEHELLMANPARAMETERS",
+		"_USE_MATH_DEFINES"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/root/mumble/src",
+		"/root/mumble/build/src",
+		"/root/mumble/3rdparty/arc4random",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtNetwork",
+		"/usr/include/x86_64-linux-gnu/qt5/QtXml",
+		"/usr/include",
+		"/usr/include/c++/9",
+		"/usr/include/x86_64-linux-gnu/c++/9",
+		"/usr/include/c++/9/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/9/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/root/mumble/build/src/shared_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/root/mumble/build/src/CMakeFiles/shared_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "/root/mumble/build/src/CMakeFiles/shared_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/root/mumble/3rdparty/arc4random/arc4random_uniform.cpp", "Mu" ],
+		[ "/root/mumble/build/src/Mumble.pb.cc", "Mu" ],
+		[ "/root/mumble/src/Ban.cpp", "Mu" ],
+		[ "/root/mumble/src/EnvUtils.cpp", "Mu" ],
+		[ "/root/mumble/src/FFDHE.cpp", "Mu" ],
+		[ "/root/mumble/src/HTMLFilter.cpp", "Mu" ],
+		[ "/root/mumble/src/HostAddress.cpp", "Mu" ],
+		[ "/root/mumble/src/License.cpp", "Mu" ],
+		[ "/root/mumble/src/LogEmitter.cpp", "Mu" ],
+		[ "/root/mumble/src/OSInfo.cpp", "Mu" ],
+		[ "/root/mumble/src/PasswordGenerator.cpp", "Mu" ],
+		[ "/root/mumble/src/PlatformCheck.cpp", "Mu" ],
+		[ "/root/mumble/src/ProcessResolver.cpp", "Mu" ],
+		[ "/root/mumble/src/QtUtils.cpp", "Mu" ],
+		[ "/root/mumble/src/SSL.cpp", "Mu" ],
+		[ "/root/mumble/src/SSLCipherInfo.cpp", "Mu" ],
+		[ "/root/mumble/src/SSLLocks.cpp", "Mu" ],
+		[ "/root/mumble/src/SelfSignedCertificate.cpp", "Mu" ],
+		[ "/root/mumble/src/ServerAddress.cpp", "Mu" ],
+		[ "/root/mumble/src/ServerResolver.cpp", "Mu" ],
+		[ "/root/mumble/src/ServerResolverRecord.cpp", "Mu" ],
+		[ "/root/mumble/src/Timer.cpp", "Mu" ],
+		[ "/root/mumble/src/UnresolvedServerAddress.cpp", "Mu" ],
+		[ "/root/mumble/src/User.cpp", "Mu" ],
+		[ "/root/mumble/src/Version.cpp", "Mu" ],
+		[ "/root/mumble/src/crypto/CryptStateOCB2.cpp", "Mu" ],
+		[ "/root/mumble/src/crypto/CryptographicHash.cpp", "Mu" ],
+		[ "/root/mumble/src/crypto/CryptographicRandom.cpp", "Mu" ]
+	],
+	"VERBOSITY" : 0
+}

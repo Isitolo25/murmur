@@ -1,0 +1,9 @@
+# Hashes of file build rules.
+a1859076d3549c1868bdf7fbf6d473c1 src/CMakeFiles/shared_autogen
+510715cbeb80b2c56b50e3ec46874f85 src/Mumble.pb.h
+cc72521a70122937b3131ac7be7e2baf src/murmur/CMakeFiles/generate-grpc-files
+cbf5badc61956547b2e26f2e1c1f1b73 src/murmur/CMakeFiles/mumble-server_autogen
+d900574f6b9d221204e8a6e1542e3a48 src/murmur/Murmur.cpp
+ed6e7845165a98038d84528426546222 src/murmur/MurmurRPC.grpc.pb.cc
+90899a91599b2e5ee1ccd1d445ec62f1 src/murmur/MurmurRPC.pb.h
+571a902e3e96d92615fd2a7a71d32d9d src/murmur/MurmurRPC.proto.Wrapper.cpp

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/mumble/src/murmur_grpcwrapper_protoc_plugin/main.cpp
+map
+-
+sstream
+-
+string
+-
+google/protobuf/compiler/code_generator.h
+-
+google/protobuf/compiler/plugin.h
+-
+google/protobuf/descriptor.h
+-
+google/protobuf/io/printer.h
+-
+boost/algorithm/string/replace.hpp
+-
+boost/bind/bind.hpp
+-
+
